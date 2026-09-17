@@ -1,0 +1,6 @@
+Computer Type: ASUS TUF Gaming F15 FX506HE_FX506HE
+CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz
+Memory: 16 GB
+OS: Windows 11 Home Single Language 25H2
+HD: 477 GB
+Display Resolution: 1920x1080
